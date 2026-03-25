@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=AI+Undergraduate+%40+University+of+Moratuwa;Hardware+%2B+Software+Builder;Passionate+about+AI+%26+Embedded+Systems;Building+the+future%2C+one+project+at+a+time+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=AI+Undergraduate+%40+University+of+Moratuwa;Hardware+%2B+Software+Builder;Passionate+about+AI+%26+Embedded+Systems;Building+smart.+Building+real.+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
   <br/>
   
@@ -20,11 +20,11 @@ Location: Sri Lanka 🇱🇰
 Education: BSc in Artificial Intelligence @ University of Moratuwa
 Interests:
   - 🤖 AI & Machine Learning
-  - 🔌 Embedded Systems & Arduino
-  - 🛠️ Hardware + Software Integration
-  - 🌐 Full-Stack Web Development
+  - 🔌 Embedded Systems (ESP, Arduino)
+  - 🛠️ AI + Hardware Integrated Systems
+  - ⚡ Automation & Smart Devices
 Currently Learning: Advanced AI & System Design
-Fun Fact: I love turning ideas into real-world tech ⚡
+Motto: "Build smart. Build real."
 ```
 
 ---
@@ -43,15 +43,14 @@ Fun Fact: I love turning ideas into real-world tech ⚡
 #### 🧠 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### 🔌 Hardware & Tools
+#### 🔌 Hardware & Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 #### 🌐 Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -89,21 +88,11 @@ Fun Fact: I love turning ideas into real-world tech ⚡
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<div align="center">
-  
-  <a href="https://github.com/Thesaru-p/Sonar-Code-Editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thesaru-p&repo=Sonar-Code-Editor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="Sonar Code Editor"/>
-  </a>
-
-</div>
-
-<br/>
-
-| 🌍 **Visit Sigiriya** | 🤖 **AI + Arduino Projects** |
+| 🤖 **AI + Embedded Systems** | ⚡ **Automation & Smart Devices** |
 |:---:|:---:|
-| Tourism Website showcasing Sri Lanka's iconic rock fortress | Hardware meets intelligence — more coming soon! |
+| Building intelligent hardware-integrated systems | Smart device experiments — more coming soon! |
 
 ---
 
@@ -114,14 +103,10 @@ Fun Fact: I love turning ideas into real-world tech ⚡
   <a href="https://github.com/Thesaru-p">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;
-  <a href="mailto:thesaru@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 
   <br/><br/>
   
-  💬 **Always open to collaborations and interesting conversations!**
+  💬 **Open to collaborations & cool ideas!**
 
 </div>
 
@@ -134,7 +119,7 @@ Fun Fact: I love turning ideas into real-world tech ⚡
   <br/><br/>
 
   ```
-  ⭐ "Code. Build. Break. Learn. Repeat." ⭐
+  ⭐ "Build smart. Build real." ⭐
   ```
 
 </div>
