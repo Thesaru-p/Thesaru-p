@@ -14,7 +14,7 @@
 
 ```yaml
 Name: Thesaru Praneeth
-Location: Sri Lanka
+Location: Tangalle, Sri Lanka
 Education: BSc in Artificial Intelligence @ University of Moratuwa
 Interests:
   - AI and Machine Learning
