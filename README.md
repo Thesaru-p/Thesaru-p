@@ -21,6 +21,7 @@ Interests:
   - Embedded Systems
   - Automation and Smart Devices
   - AI + Hardware Integrated Systems
+  - Agentic Workflows
 Motto: "Build smart. Build real."
 ```
 
