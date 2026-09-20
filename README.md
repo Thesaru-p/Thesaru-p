@@ -11,7 +11,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
 
 ```yaml
-Name: Thesaru Praneeth
+Name: Thesaru Praneeth De Silva
 Location: Sri Lanka 🇱🇰
 Education: BSc in Artificial Intelligence @ University of Moratuwa
 Interests:
