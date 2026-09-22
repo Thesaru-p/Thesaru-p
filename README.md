@@ -13,7 +13,7 @@
 ## About Me
 
 ```yaml
-Name: Thesaru Praneeth De Silva
+Name: Thesaru Praneeth
 Location: Tangalle, Sri Lanka 🇱🇰
 Education: BSc in Artificial Intelligence @ University of Moratuwa
 Interests:
