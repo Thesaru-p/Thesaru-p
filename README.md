@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 📍 **Location:** Tangalle, Sri Lanka
+- 📍 **Location:** Sri Lanka
 - 🎓 **Education:** BSc in Artificial Intelligence @ University of Moratuwa
 - 💡 **Interests:** AI and Machine Learning, Embedded Systems, Automation and Smart Devices, AI + Hardware Integrated Systems
 
